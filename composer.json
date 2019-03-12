@@ -1,0 +1,13 @@
+{
+    "name": "regionhalland/region-halland-xml-site-map",
+    "description": "Visa XML Site Map",
+    "type": "wordpress-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Roland Hydén",
+            "email": "Roland.Hyden@Regionhalland.se"
+        }
+    ],
+    "require": {}
+}
